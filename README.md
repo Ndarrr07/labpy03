@@ -54,16 +54,16 @@ Algoritma nya:<p>
 2. Algoritma,Program beserta hasil output dari latihan2:<p>
 ![gambar 2](screenshot/ss5.png)
 
-     print("Tugas Pertemuan 7 - Praktikum 3 - Latihan 2")
-     xangka=0
-     while True:
-        xbilangan = int(input("Masukkan Bilangan : "))
-        if (xangka < xbilangan):
+         print("Tugas Pertemuan 7 - Praktikum 3 - Latihan 2")
+         xangka=0
+         while True:
+         xbilangan = int(input("Masukkan Bilangan : "))
+         if (xangka < xbilangan):
             xangka=xbilangan
-        if (xbilangan == 0):
+         if (xbilangan == 0):
             break
-     print("Bilangan terbesar adalah: ",xangka)
-     print()
+         print("Bilangan terbesar adalah: ",xangka)
+         print()
 
 Berikut adalah Algoritma nya
 

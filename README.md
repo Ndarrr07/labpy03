@@ -12,7 +12,7 @@ Berikut untuk program nya menggunakan editor pycharm<p>
 3.anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya<p>
 4.gunakan fungsi random() yang dapat diimport terlebih dahulu
 Berikut untuk gambar program nya:<P>
-![gambar 1](screenshot/ss1.png)
+![gambar 1](screenshot/ss4.png)
 
 dari hasil tersebut menghasilkan output seperti ini<P>
    
@@ -52,5 +52,5 @@ Algoritma nya:<p>
      "uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
 
 2. Algoritma,Program beserta hasil output dari latihan2:<p>
-![gambar 2](screenshot/latian5.PNG)
+![gambar 2](screenshot/ss5.png)
 
